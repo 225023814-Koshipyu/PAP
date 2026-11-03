@@ -38,4 +38,3 @@ printf("\nSupplier: %s\n", supplierName);
 printf("Status: Qualified\n"); 
 } 
 return 0; 
-}
